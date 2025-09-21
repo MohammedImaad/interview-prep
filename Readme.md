@@ -104,9 +104,9 @@ The retriever and API will now use your new knowledge base.
     The frontend will now be running, typically on `http://localhost:3000` or the port specified in your Vite config. Open this URL in your browser.
 
 ## 📸 Screenshots
-| About Page | Prepare Page |RAG Pipeline |
-| :---: | :---: |  :---: |
-| <img src="./images/about-page.gif" width="400"/> | <img src="./images/prepare-page.gif" width="400"/> |  <img src="./images/RAGpipeline.png" width="400"/> |
+| About Page | Prepare Page |
+| :---: | :---: |
+| <img src="./images/about-page.gif" width="400"/> | <img src="./images/prepare-page.gif" width="400"/> |  
 
 ## 🛠️ Technology Stack
 - **Backend:** Python, ChromaDB, Sentence-Transformers, OpenAI API, FastAPI, Uvicorn, python-dotenv
