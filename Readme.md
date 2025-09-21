@@ -106,7 +106,7 @@ The retriever and API will now use your new knowledge base.
 ## 📸 Screenshots
 | About Page | Prepare Page |
 | :---: | :---: |
-| <img src="./images/about-page.png" width="400"/> | <img src="./images/prepare-page.png" width="400"/> |
+| <img src="./images/about-page.gif" width="400"/> | <img src="./images/prepare-page.gif" width="400"/> |
 
 ## 🛠️ Technology Stack
 - **Backend:** Python, ChromaDB, Sentence-Transformers, OpenAI API, FastAPI, Uvicorn, python-dotenv
